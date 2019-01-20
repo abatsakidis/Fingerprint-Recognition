@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ggpixwrv7yqa4vrm?svg=true)](https://ci.appveyor.com/project/abatsakidis/fingerprint-recognition)
+
 ## Description ##
 
 This application recognizes fingerprint using minutiae extraction and then find similarity between the two fingerprints.
@@ -10,7 +12,7 @@ It measures the result accuracy in the scale of 1 - 100.
 * Select the second fingerprint image (Load Fingerprint button)
 * Click Check button 
 
-![Alt text](/Screenshot/screen.jpg?raw=true "Fingerprint Recognition")
+![Alt text](/Screenshot/screen.JPG?raw=true "Fingerprint Recognition")
 
 ## Tested on ##
 
